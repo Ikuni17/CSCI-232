@@ -12,6 +12,7 @@ import java.util.*;
 
 public class ClosestPair {
 
+    // Something
     // Hardcoded set of points sorted by x coordinate
     private static final Point2D[] pointsX = new Point2D[]{new Point2D.Double(2.0, 7.0), new Point2D.Double(4.0, 13.0), new Point2D.Double(5.0, 8.0), new Point2D.Double(10.0, 5.0), new Point2D.Double(14.0, 9.0),
         new Point2D.Double(15.0, 5.0), new Point2D.Double(17.0, 7.0), new Point2D.Double(19.0, 10.0), new Point2D.Double(22.0, 7.0), new Point2D.Double(25.0, 10.0),
